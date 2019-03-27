@@ -1,2 +1,2 @@
 # googlecontainerproxy
-transfer  the image from google to docker hub
+transfer  the images from google to docker hub
